@@ -1,0 +1,8 @@
+name: personal_results
+account: feasible-analytics
+server: shinyapps.io
+bundleId: 213828
+url: https://feasible-analytics.shinyapps.io/personal_results
+when: 1435719144.2288
+asMultiple: FALSE
+asStatic: FALSE
